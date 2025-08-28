@@ -1,0 +1,3 @@
+so this is going to be a to do list app that will contain the follwing features:
+add tasks -> task name , task description , the time it was created , time that it has to be finished by 
+crud functions -> be able to add delete update tasks 
