@@ -7,11 +7,20 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This is my small To-Do List app for practicing backend and the MVC architechture",
   "dependencies": {
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
+    "i": "^0.3.7",
     "mongoose": "^8.18.0",
     "nodemon": "^3.1.10"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshay776/TodoMVC.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lakshay776/TodoMVC/issues"
+  },
+  "homepage": "https://github.com/lakshay776/TodoMVC#readme"
 }
